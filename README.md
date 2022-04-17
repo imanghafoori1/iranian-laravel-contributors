@@ -24,3 +24,5 @@ The list of people from Iran who have contributed to the laravel framework
 - <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+is%3Amerged+author%3Aghaninia+">Amin Ghaninia
 </a>
 
+- <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+is%3Aclosed+author%3ASaeedNikmehr">Saeed Nikmehr
+</a>
