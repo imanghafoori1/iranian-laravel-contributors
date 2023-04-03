@@ -47,5 +47,8 @@ The list of people from Iran who have contributed to the laravel docs
 
 - <a href="https://github.com/laravel/docs/pulls?q=is%3Amerged+is%3Apr+author%3Amilwad-dev+">Milwad Khosravi
   </a>
+  
+- <a href="https://github.com/laravel/docs/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992">Saleh Hashemi
+  </a>  
 
 
