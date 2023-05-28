@@ -42,6 +42,8 @@ The list of people from Iran who have contributed to the laravel framework
 
 - <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Aazim-kordpour+is%3Amerged">Azim Kordpour</a>
 
+- <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Amhfereydouni+is%3Amerged">Mohammadhossein Fereydouni</a>
+
 The list of people from Iran who have contributed to the laravel docs
 
 - <a href="https://github.com/laravel/docs/pulls?q=is%3Apr+author%3Aimanghafoori1+is%3Amerged">Iman Ghafoori
