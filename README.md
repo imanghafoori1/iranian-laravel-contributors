@@ -31,6 +31,9 @@ The list of people from Iran who have contributed to the laravel framework
 - <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+is%3Aclosed+author%3ASaeedNikmehr">Saeed Nikmehr
 </a>
 
+- <a href="https://github.com/laravel/framework/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992">Saleh Hashemi
+  </a>
+
 - <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Amehdirajabi59+is%3Amerged">Mehdi Rajabi
 </a>
 
