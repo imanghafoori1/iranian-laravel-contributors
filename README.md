@@ -1,13 +1,25 @@
 # Iranian Laravel Contributors
 The list of people from Iran who have contributed to the laravel framework
 
-- <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Aimanghafoori1+is%3Amerged">Iman Ghafoori</a>
+<a href="/imanghafoori1" data-view-component="true" class="TimelineItem-avatar avatar circle lh-0 Link"><img data-hovercard-type="user" data-hovercard-url="/users/imanghafoori1/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" src="https://avatars.githubusercontent.com/u/6961695?s=60&amp;v=4" alt="imanghafoori1" size="40" height="40" width="40" data-view-component="true"></a>
+<a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Aimanghafoori1+is%3Amerged">Iman Ghafoori</a>
 
-- <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Ahalaei+is%3Amerged">Hamid Alaie</a>
+--------------------------
 
-- <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Akhalilst+is%3Amerged">Khalil Laleh</a>
+<a href="/halaei" data-view-component="true" class="TimelineItem-avatar avatar circle lh-0 Link"><img data-hovercard-type="user" data-hovercard-url="/users/halaei/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" src="https://avatars.githubusercontent.com/u/7089140?s=60&amp;v=4" alt="halaei" size="40" height="40" width="40" data-view-component="true"></a>
+<a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Ahalaei+is%3Amerged">Hamid Alaie</a>
 
-- <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Arezaamini-ir+is%3Amerged">Reza Amini</a>
+--------------------------
+
+<a href="/khalilst" data-view-component="true" class="TimelineItem-avatar avatar circle lh-0 Link"><img data-hovercard-type="user" data-hovercard-url="/users/khalilst/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" src="https://avatars.githubusercontent.com/u/9103966?s=60&amp;v=4" alt="khalilst" size="40" height="40" width="40" data-view-component="true"></a>
+<a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Akhalilst+is%3Amerged">Khalil Laleh</a>
+
+--------------------------
+
+<a href="/rezaamini-ir" data-view-component="true" class="TimelineItem-avatar avatar circle lh-0 Link"><img data-hovercard-type="user" data-hovercard-url="/users/rezaamini-ir/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" src="https://avatars.githubusercontent.com/u/29504334?s=60&amp;v=4" alt="rezaamini-ir" size="40" height="40" width="40" data-view-component="true"></a>
+<a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Arezaamini-ir+is%3Amerged">Reza Amini</a>
+
+--------------------------
 
 - <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+is%3Amerged+author%3Ahafezdivandari+">Hafez Divandari</a>
 
