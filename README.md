@@ -71,3 +71,5 @@ The list of people from Iran who have contributed to the laravel docs
   </a>  
 
 - <a href="https://github.com/laravel/docs/pulls?q=is%3Apr+author%3Aazim-kordpour+is%3Amerged">Azim Kordpour</a>
+
+- <a href="https://github.com/laravel/docs/pulls?q=is%3Apr+author%3Adanger-mkh+is%3Amerged+">Mostafa Khorashadi</a>
