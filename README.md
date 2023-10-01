@@ -21,45 +21,72 @@ The list of people from Iran who have contributed to the laravel framework
 
 --------------------------
 
-- <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+is%3Amerged+author%3Ahafezdivandari+">Hafez Divandari</a>
+<a href="/hafezdivandari" data-view-component="true" class="TimelineItem-avatar avatar circle lh-0 Link"><img data-hovercard-type="user" data-hovercard-url="/users/hafezdivandari/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" src="https://avatars.githubusercontent.com/u/56585913?s=60&amp;v=4" alt="hafezdivandari" size="40" height="40" width="40" data-view-component="true"></a> <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+is%3Amerged+author%3Ahafezdivandari+">Hafez Divandari</a>
 
-- <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3AhAz5+is%3Amerged">Hadi Alizadeh</a>
+--------------------------
 
-- <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Aamir9480+is%3Amerged+">Amir Alizadeh
+<a href="/hAz5" data-view-component="true" class="TimelineItem-avatar avatar circle lh-0 Link"><img data-hovercard-type="user" data-hovercard-url="/users/hAz5/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" src="https://avatars.githubusercontent.com/u/14108756?s=60&amp;v=4" alt="hAz5" size="40" height="40" width="40" data-view-component="true"></a> <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3AhAz5+is%3Amerged">Hadi Alizadeh</a>
+
+--------------------------
+
+<a href="/amir9480" data-view-component="true" class="TimelineItem-avatar avatar circle lh-0 Link"><img data-hovercard-type="user" data-hovercard-url="/users/amir9480/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" src="https://avatars.githubusercontent.com/u/16279288?s=60&amp;v=4" alt="amir9480" size="40" height="40" width="40" data-view-component="true"></a> <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Aamir9480+is%3Amerged+">Amir Alizadeh</a>
+
+--------------------------
+
+<a href="/m-mohammadi1" data-view-component="true" class="TimelineItem-avatar avatar circle lh-0 Link"><img data-hovercard-type="user" data-hovercard-url="/users/m-mohammadi1/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" src="https://avatars.githubusercontent.com/u/76903368?s=60&amp;v=4" alt="m-mohammadi1" size="40" height="40" width="40" data-view-component="true"></a> <a href="https://github.com/laravel/framework/pulls?q=is%3Amerged+is%3Apr+author%3Am-mohammadi1+">Mohammad Mohammadi
 </a>
 
-- <a href="https://github.com/laravel/framework/pulls?q=is%3Amerged+is%3Apr+author%3Am-mohammadi1+">Mohammad Mohammadi
+--------------------------
+
+<a href="/Hesammousavi" data-view-component="true" class="TimelineItem-avatar avatar circle lh-0 Link"><img data-hovercard-type="user" data-hovercard-url="/users/Hesammousavi/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" src="https://avatars.githubusercontent.com/u/16537600?s=60&amp;v=4" alt="Hesammousavi" size="40" height="40" width="40" data-view-component="true"></a> <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3AHesammousavi+is%3Amerged">Hesam mousavi
 </a>
 
-- <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3AHesammousavi+is%3Amerged">Hesam mousavi
+--------------------------
+
+<a href="/ghaninia" data-view-component="true" class="TimelineItem-avatar avatar circle lh-0 Link"><img data-hovercard-type="user" data-hovercard-url="/users/ghaninia/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" src="https://avatars.githubusercontent.com/u/41255155?s=60&amp;v=4" alt="ghaninia" size="40" height="40" width="40" data-view-component="true"></a> <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+is%3Amerged+author%3Aghaninia+">Amin Ghaninia
 </a>
 
-- <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+is%3Amerged+author%3Aghaninia+">Amin Ghaninia
+--------------------------
+
+<a href="/alirezasalehizadeh" data-view-component="true" class="TimelineItem-avatar avatar circle lh-0 Link"><img data-hovercard-type="user" data-hovercard-url="/users/alirezasalehizadeh/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" src="https://avatars.githubusercontent.com/u/66994089?s=60&amp;v=4" alt="alirezasalehizadeh" size="40" height="40" width="40" data-view-component="true"></a> <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Aalirezasalehizadeh+is%3Amerged+is%3Amerged">Alireza salehzade
 </a>
 
-- <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Aalirezasalehizadeh+is%3Aclosed+is%3Amerged">Alireza salehzade
+--------------------------
+
+<a href="/SaeedNikmehr" data-view-component="true" class="TimelineItem-avatar avatar circle lh-0 Link"><img data-hovercard-type="user" data-hovercard-url="/users/SaeedNikmehr/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" src="https://avatars.githubusercontent.com/u/21986853?s=60&amp;v=4" alt="SaeedNikmehr" size="40" height="40" width="40" data-view-component="true"></a> <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+is%3Amerged+author%3ASaeedNikmehr">Saeed Nikmehr
 </a>
 
-- <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+is%3Aclosed+author%3ASaeedNikmehr">Saeed Nikmehr
-</a>
+--------------------------
 
-- <a href="https://github.com/laravel/framework/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992">Saleh Hashemi
+<a href="/salehhashemi1992" data-view-component="true" class="TimelineItem-avatar avatar circle lh-0 Link"><img data-hovercard-type="user" data-hovercard-url="/users/salehhashemi1992/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" src="https://avatars.githubusercontent.com/u/81674631?s=60&amp;v=4" alt="salehhashemi1992" size="40" height="40" width="40" data-view-component="true"></a> <a href="https://github.com/laravel/framework/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992">Saleh Hashemi
   </a>
 
-- <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Amehdirajabi59+is%3Amerged">Mehdi Rajabi
+  --------------------------
+
+<a href="/mehdirajabi59" data-view-component="true" class="TimelineItem-avatar avatar circle lh-0 Link"><img data-hovercard-type="user" data-hovercard-url="/users/mehdirajabi59/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" src="https://avatars.githubusercontent.com/u/7848036?s=60&amp;v=4" alt="mehdirajabi59" size="40" height="40" width="40" data-view-component="true"></a> <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Amehdirajabi59+is%3Amerged">Mehdi Rajabi
 </a>
 
-- <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Aerfanhemmati+is%3Amerged+">Erfan Hemmati
+--------------------------
+
+<a href="/erfanhemmati" data-view-component="true" class="TimelineItem-avatar avatar circle lh-0 Link"><img data-hovercard-type="user" data-hovercard-url="/users/erfanhemmati/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" src="https://avatars.githubusercontent.com/u/45740840?s=60&amp;v=4" alt="erfanhemmati" size="40" height="40" width="40" data-view-component="true"></a> <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Aerfanhemmati+is%3Amerged+">Erfan Hemmati
 </a>
 
-- <a href="https://github.com/laravel/framework/pulls?q=is%3Amerged+is%3Apr+author%3Amilwad-dev+">Milwad Khosravi
+--------------------------
+
+<a href="/milwad-dev" data-view-component="true" class="TimelineItem-avatar avatar circle lh-0 Link"><img data-hovercard-type="user" data-hovercard-url="/users/milwad-dev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" src="https://avatars.githubusercontent.com/u/98118400?s=60&amp;v=4" alt="milwad-dev" size="40" height="40" width="40" data-view-component="true"></a> <a href="https://github.com/laravel/framework/pulls?q=is%3Amerged+is%3Apr+author%3Amilwad-dev+">Milwad Khosravi
   </a>
 
-- <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Aazim-kordpour+is%3Amerged">Azim Kordpour</a>
+  --------------------------
 
-- <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Amhfereydouni+is%3Amerged">Mohammadhossein Fereydouni</a>
+<a href="/azim-kordpour" data-view-component="true" class="TimelineItem-avatar avatar circle lh-0 Link"><img data-hovercard-type="user" data-hovercard-url="/users/azim-kordpour/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" src="https://avatars.githubusercontent.com/u/26648275?s=60&amp;v=4" alt="azim-kordpour" size="40" height="40" width="40" data-view-component="true"></a> <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Aazim-kordpour+is%3Amerged">Azim Kordpour</a>
 
-The list of people from Iran who have contributed to the laravel docs
+--------------------------
+
+<a href="/mhfereydouni" data-view-component="true" class="TimelineItem-avatar avatar circle lh-0 Link"><img data-hovercard-type="user" data-hovercard-url="/users/mhfereydouni/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" src="https://avatars.githubusercontent.com/u/56073286?s=60&amp;v=4" alt="mhfereydouni" size="40" height="40" width="40" data-view-component="true"></a> <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Amhfereydouni+is%3Amerged">Mohammadhossein Fereydouni</a>
+
+--------------------------
+
+The list of people from Iran who have contributed to the Laravel docs
 
 - <a href="https://github.com/laravel/docs/pulls?q=is%3Apr+author%3Aimanghafoori1+is%3Amerged">Iman Ghafoori
   </a>
