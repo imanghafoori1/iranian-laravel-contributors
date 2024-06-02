@@ -86,7 +86,7 @@ The list of people from Iran who have contributed to the laravel framework
 
 --------------------------
 
-<a href="/AsaMahmoudzadeh" data-view-component="true" class="TimelineItem-avatar avatar circle lh-0 Link"><img data-hovercard-type="user" data-hovercard-url="/users/AsaMahmoudzadeh/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" src="https://avatars.githubusercontent.com/u/36761585?s=60&v=4" alt="AsaMahmoudzadeh" size="40" height="40" width="40" data-view-component="true"></a> <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3AsaMahmoudzadeh+is%3Aclosed">Mahmoudzadeh</a>
+<a href="/AsaMahmoudzadeh" data-view-component="true" class="TimelineItem-avatar avatar circle lh-0 Link"><img data-hovercard-type="user" data-hovercard-url="/users/AsaMahmoudzadeh/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" src="https://avatars.githubusercontent.com/u/36761585?s=60&v=4" alt="AsaMahmoudzadeh" size="40" height="40" width="40" data-view-component="true"></a> <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3AsaMahmoudzadeh+is%3Amerged+">Mahmoudzadeh</a>
 
 
 --------------------------
@@ -104,7 +104,6 @@ The list of people from Iran who have contributed to the Laravel docs
 
 - <a href="https://github.com/laravel/docs/pulls?q=is%3Apr+author%3Aazim-kordpour+is%3Amerged">Azim Kordpour</a>
 
-
-- <a href="https://github.com/laravel/docs/pulls?q=is%3Apr+author%3Adanger-mkh+is%3Amerged+">Mostafa Khorashadi</a>
+- <a href="https://github.com/laravel/docs/pulls?q=is%3Apr+is%3Amerged+author%3AsaMahmoudzadeh">Sayyed Abdollah Mahmoudzadeh</a>
 
 
