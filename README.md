@@ -102,6 +102,10 @@ The list of people from Iran who have contributed to the laravel framework
 
 --------------------------
 
+<a href="/alikhosravidev" data-view-component="true" class="TimelineItem-avatar avatar circle lh-0 Link"><img data-hovercard-type="user" data-hovercard-url="/users/alikhosravidev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" src="https://avatars.githubusercontent.com/u/49164621?s=60&v=4" alt="Ali Khosravi" size="40" height="40" width="40" data-view-component="true"></a> <a href="https://github.com/laravel/framework/pulls?q=is%3Apr%20author%3Aalikhosravidev%20is%3Amerged">Ali Khosravi</a>
+
+--------------------------
+
 The list of people from Iran who have contributed to the Laravel docs
 
 - <a href="https://github.com/laravel/docs/pulls?q=is%3Apr+author%3Aimanghafoori1+is%3Amerged">Iman Ghafoori
