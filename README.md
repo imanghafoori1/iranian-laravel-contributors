@@ -94,13 +94,20 @@ The list of people from Iran who have contributed to the laravel framework
 
 --------------------------
 
-<a href="/AmirKhalifehSoltani" data-view-component="true" class="TimelineItem-avatar avatar circle lh-0 Link"><img data-hovercard-type="user" data-hovercard-url="/users/AmirKhalifehSoltani/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" src="https://avatars.githubusercontent.com/u/47951749?s=60&v=4" alt="AsaMahmoudzadeh" size="40" height="40" width="40" data-view-component="true"></a> <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3AAmirKhalifehSoltani+is%3Amerged+">Amir KhalifehSoltani</a>
+<a href="/AmirKhalifehSoltani" data-view-component="true" class="TimelineItem-avatar avatar circle lh-0 Link"><img data-hovercard-type="user" data-hovercard-url="/users/AmirKhalifehSoltani/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" src="https://avatars.githubusercontent.com/u/47951749?s=60&v=4" alt="AmirKhalifehSoltani" size="40" height="40" width="40" data-view-component="true"></a> <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3AAmirKhalifehSoltani+is%3Amerged+">Amir KhalifehSoltani</a>
 
 --------------------------
 
 <a href="/mohsenetm" data-view-component="true" class="TimelineItem-avatar avatar circle lh-0 Link"><img data-hovercard-type="user" data-hovercard-url="/users/mohsenetm/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" src="https://avatars.githubusercontent.com/u/56743266?s=60&v=4" alt="Mohsen Etmemadi Nia" size="40" height="40" width="40" data-view-component="true"></a> <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Amohsenetm+is%3Amerged+">Mohsen Etmemadi Nia</a>
 
+
 --------------------------
+
+<a href="/Amirhf1" data-view-component="true" class="TimelineItem-avatar avatar circle lh-0 Link"><img data-hovercard-type="user" data-hovercard-url="/users/Amirhf1/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" src="https://avatars.githubusercontent.com/u/47951749?s=60&v=4" alt="Amir" size="40" height="40" width="40" data-view-component="true"></a> <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3AAmirhf1+is%3Amerged+">Amir hossain Fallah</a>
+
+--------------------------
+
+
 
 The list of people from Iran who have contributed to the Laravel docs
 
